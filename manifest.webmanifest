@@ -1,0 +1,39 @@
+{
+  "name": "Rayong is Amazing!",
+  "short_name": "Rayong is Amazing!",
+  "lang": "en-US",
+  "description": "Powered by SvelteKit/Urara",
+  "id": "https://rayongfruit.nicekun.dev/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3D4451",
+  "theme_color": "#3D4451",
+  "icons": [
+    {
+      "src": "https://rayongfruit.nicekun.dev/assets/any@192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://rayongfruit.nicekun.dev/assets/any@512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://rayongfruit.nicekun.dev/assets/maskable@192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://rayongfruit.nicekun.dev/assets/maskable@512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
