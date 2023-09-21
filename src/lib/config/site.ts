@@ -9,7 +9,7 @@ export const site: SiteConfig = {
   description: 'Powered by SvelteKit/Urara',
   author: {
     avatar: '/assets/maskable@512.png',
-    name: 'Chanakan at Rayong',
+    name: 'Chanakan & panyawut',
     status: '🌸',
     bio: 'โปรเเกรมเมอร์ที่ไม่รู้อะไรเลยกับเขา.'
   },
